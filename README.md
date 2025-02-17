@@ -136,12 +136,6 @@ You can modify these settings to adjust the model's behavior.
 
 ## Results
 
-Certainly! Here's the updated **Results** section for your `README.md` file, incorporating the images you provided as the results of your analysis:
-
----
-
-## Results
-
 ### 1. **Sales, Quantity, and Profit Distributions**
 The following visualizations show the distributions of **Sales**, **Quantity**, and **Profit** from the dataset:
 
